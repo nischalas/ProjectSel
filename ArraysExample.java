@@ -24,6 +24,12 @@ public class ArraysExample {
 		
 	ChromeOptions opt =new ChromeOptions();
 	opt.addArguments("--disable-notifications");
+	
+	
+	ChromeOptions opt =new ChromeOptions();
+	opt.addArguments("--disable-notifications");
+	ChromeOptions opt =new ChromeOptions();
+	opt.addArguments("--disable-notifications");
 	}
 
 }
